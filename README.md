@@ -6,7 +6,7 @@ A priority-based, batch-processed data ingestion system built with Node.js and E
 
 ## 🌐 Hosted URL
 
-[[https://your-app-name.onrender.com](https://your-app-name.onrender.com)](https://data-ingestion-api-16mg.onrender.com)
+(https://data-ingestion-api-16mg.onrender.com)
 
 ---
 
